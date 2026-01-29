@@ -1,5 +1,17 @@
 # Clean Code Principles for AI
 
+Clean code rules for AI coding assistants. Teaches agents to write maintainable code focused on simplicity, small functions, and clear naming.
+
+## How to Use
+
+**Cursor:** Copy this file to your project root as:
+- `.cursorrules` or
+- `.cursor/rules/clean-code.md`
+
+**Claude Code:** Copy to:
+- Project: `.claude/rules/clean-code.md` or `CLAUDE.md`
+- User-level: `~/.claude/CLAUDE.md` (applies to all your projects)
+
 ## Good Practices
 - Extract method
 - Extract class
