@@ -4,9 +4,7 @@ Clean code rules for AI coding assistants. Teaches agents to write maintainable 
 
 ## How to Use
 
-**Cursor:** Copy this file to your project root as:
-- `.cursorrules` or
-- `.cursor/rules/clean-code.md`
+**Cursor:** Copy this file to `.cursor/rules/clean-code.md` in your project root
 
 **Claude Code:** Copy this file to:
 - Project: `.claude/rules/clean-code.md`
