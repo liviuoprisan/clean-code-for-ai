@@ -113,6 +113,10 @@
 - **Commands**: Change state, return nothing
 - **Queries**: Return data, change nothing
 
+### Others
+Avoid the ternary operator 
+
+
 ## What to Avoid
 
 ### Comments
