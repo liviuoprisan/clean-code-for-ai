@@ -6,7 +6,8 @@ Clean code rules for AI coding assistants. Teaches agents to write maintainable 
 
 Copy [`clean-code.md`](clean-code.md) to:
 
-**Cursor:** `.cursor/rules/clean-code.md` in your project root
+**Cursor:** `.cursor/rules/clean-code.md` in your project root.
+
 Some versions of Cursor seem to prefer the file to be .mdc instead of .md.
 
 **Claude Code:**
