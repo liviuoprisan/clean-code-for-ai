@@ -15,5 +15,7 @@ Some versions of Cursor seem to prefer the file to be .mdc instead of .md.
 - Workspace/Project level: `.claude/rules/clean-code.md` in your workspace
 - User-level: `~/.claude/rules/clean-code.md` (applies to all your projects)
 
+
 **Test**
+
 Ask the AI "do you have the clean code rules in your context?"
