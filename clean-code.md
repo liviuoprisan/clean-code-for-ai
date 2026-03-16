@@ -123,7 +123,7 @@ Avoid the ternary operator
 - Comments lie and rot
 - Express intent through code, not comments
 - Exception: Regex explanations, public APIs, warnings about consequences
-- Don't delete existing comments, someone thought it was important
+- Don't delete existing comments, someone thought they were important
 
 ### Complexity
 - Avoid complex patterns and polymorphism unless essential
